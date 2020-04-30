@@ -61,13 +61,6 @@ def runner
     total = hit?(total) 
     display_card_total(total)
   end
-  # # if they said stay
-  # if new_total == total
-  #   hit?(total)
-  # end
-  # if new_total > 21 
-  # end_game(new_total)
-  # end
 end_game(total)
 end
     
